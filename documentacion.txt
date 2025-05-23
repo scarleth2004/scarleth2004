@@ -1,0 +1,25 @@
+DOCUMENTACIÓN DEL SITIO WEB - Protejamos el Medio Ambiente
+
+1. Estructura de Archivos:
+- index.html: Página principal del sitio web
+- styles.css: Estilos y diseño visual
+
+2. Características:
+- Diseño responsive adaptado a móvil y escritorio
+- Tipografía Roboto de Google Fonts
+- Navegación interna con anclas
+- Sección de contacto (no funcional aún)
+
+3. Cómo Publicar en GitHub Pages:
+- Crea cuenta en https://github.com
+- Crea nuevo repositorio llamado "nombre.github.io"
+- Sube index.html y styles.css
+- Ve a Settings > Pages > Source: selecciona 'main' branch y carpeta raíz
+- Tu página estará en: https://nombre.github.io
+
+4. Personalización:
+Puedes modificar colores, texto o imágenes desde index.html y styles.css.
+
+5. Recomendación:
+Usa servicios como Formspree si deseas recibir mensajes desde el formulario de contacto.
+
